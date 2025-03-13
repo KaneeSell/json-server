@@ -1,0 +1,84 @@
+{
+  "entidades": [
+    {
+      "id": 1,
+      "cpfcnpj": "123.456.789-10",
+      "nomerazao": "Daniel Henrique Sell",
+      "nomefantasia": "Kane'e Sell",
+      "cliente": true,
+      "fornecedor": true
+    },
+    {
+      "id": 2,
+      "cpfcnpj": "222.345.678-90",
+      "nomerazao": "Ana Carolina Souza",
+      "nomefantasia": "AB Soluções",
+      "cliente": true,
+      "fornecedor": false
+    },
+    {
+      "id": 3,
+      "cpfcnpj": "333.987.654-21",
+      "nomerazao": "Felipe Almeida",
+      "nomefantasia": "Almeida Tech",
+      "cliente": true,
+      "fornecedor": true
+    },
+    {
+      "id": 4,
+      "cpfcnpj": "444.123.789-56",
+      "nomerazao": "Juliana Ramos",
+      "nomefantasia": "JR Consultoria",
+      "cliente": false,
+      "fornecedor": true
+    },
+    {
+      "id": 5,
+      "cpfcnpj": "555.654.321-00",
+      "nomerazao": "Carlos Menezes",
+      "nomefantasia": "Menezes Distribuidora",
+      "cliente": true,
+      "fornecedor": true
+    },
+    {
+      "id": 6,
+      "cpfcnpj": "666.111.222-33",
+      "nomerazao": "Bianca Oliveira",
+      "nomefantasia": "Oliveira Atacado",
+      "cliente": false,
+      "fornecedor": true
+    },
+    {
+      "id": 7,
+      "cpfcnpj": "777.888.999-44",
+      "nomerazao": "Roberto Fernandes",
+      "nomefantasia": "RF Serviços",
+      "cliente": true,
+      "fornecedor": false
+    },
+    {
+      "id": 8,
+      "cpfcnpj": "888.777.666-55",
+      "nomerazao": "Fernanda Lopes",
+      "nomefantasia": "FL Representações",
+      "cliente": false,
+      "fornecedor": true
+    },
+    {
+      "id": 9,
+      "cpfcnpj": "999.555.444-66",
+      "nomerazao": "Gustavo Pereira",
+      "nomefantasia": "Pereira & Cia",
+      "cliente": true,
+      "fornecedor": false
+    },
+    {
+      "id": 10,
+      "cpfcnpj": "123.456.789-00",
+      "nomerazao": "Mariana Silva",
+      "nomefantasia": "MS Empreendimentos",
+      "cliente": true,
+      "fornecedor": true
+    }
+  ]
+}
