@@ -76,7 +76,7 @@ server.use((req, res, next) => {
 server.use(middlewares);
 server.use(router);
 
-const PORT = process.env.PORT || 25565;
+const PORT = process.env.PORT || 5000;
 server.listen(PORT, "0.0.0.0", () => {
   console.log(chalk.bold.green(`🔥 JSON Server rodando em http://localhost:${PORT}`));
 });
